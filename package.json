@@ -1,6 +1,6 @@
 {
   "name": "multiclass",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description":
     "Minimal syntactic sugar for joining multiple classNames together",
   "main": "index.js",
